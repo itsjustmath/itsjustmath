@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a New York-born and Los Angeles-raised front-end developer / UI engineer. When I’m not working, you can find me hiking, reading, sipping coffee, or laughing at my own terrible puns.
+
 <!--
 **itsjustmath/itsjustmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
