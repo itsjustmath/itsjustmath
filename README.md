@@ -2,7 +2,7 @@
 
 I’m a New York-born and Los Angeles-raised front-end developer / UI engineer. When I’m not working, you can find me hiking, biking, reading, sipping coffee, or laughing at my own terrible puns.
 
-- 🔭 I currently lead site builds at Accenture. Prior to that I worked on the apartment rental platform, Radpad.
+- 🔭 I currently lead site builds at Accenture (prior to that I worked on the apartment rental platform, Radpad)
 - 🎨 Take a look at [my portfolio](https://itsjustmath.net/) to see some of the sites I've worked on
 - 🧐 Visit my [Medium profile](https://medium.com/@itsjustmath) for some user experience case studies I've done
 - 📝 Check out [my newsletter](https://itsjustmath.substack.com/) to hear my thoughts on the cross-sections between culture and technology
